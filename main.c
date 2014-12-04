@@ -2,11 +2,10 @@
 #include "math.h"
 
 int main(void) {
-	
-	int i=0;
-	for(;i<10;i++)
+	int a=3;
+	int i=333;
 	printf("%d,",i);
-    
+   	printf("hi~~~"); 
 	system("pause");
 
    
