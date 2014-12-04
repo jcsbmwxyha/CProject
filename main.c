@@ -8,5 +8,8 @@ int main(void) {
 	printf("%d,",i);
     
 	system("pause");
+
+   
+    
     return 0;
 }
