@@ -2,11 +2,14 @@
 #include "math.h"
 
 int main(void) {
-    extern int num;
-    int power = 0; 
+	
+	int i=0;
+	for(;i<10;i++)
+	printf("%d,",i);
+    
+	system("pause");
 
    
-    printf("just dance~");
     
     return 0;
 }
