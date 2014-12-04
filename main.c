@@ -6,7 +6,7 @@ int main(void) {
     int power = 0; 
 
    
-    printf("%d\n", myPow2(num));
+    printf("just test!!");
     
     return 0;
 }
